@@ -1,4 +1,8 @@
-hellow-world
+hello-world
 ============
 
-Hi! My name is David.
+Hi!
+
+My name is David.
+
+Bye!
